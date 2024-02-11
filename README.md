@@ -22,10 +22,6 @@ Navigate to the project directory:
 cd your-project-name
 ```
 
-### Setting Up Your Development Environment
-
-(Provide instructions specific to your project setup, such as installing dependencies or setting up virtual environments.)
-
 ## Branching Strategy
 
 Our project uses the feature-branch workflow. Each new feature should be developed in its own branch, created from the `main` branch.
